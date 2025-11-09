@@ -9,7 +9,8 @@ These visual outputs allow users to understand the spatial distribution of each 
 
 ## 1. Final LULC Map over Orthoimage
 
-📍 *Insert file here (e.g., `final_map_over_ortho.png`)*
+📍 <img width="582" height="824" alt="image" src="https://github.com/user-attachments/assets/91986709-0ad9-4ea0-aeef-440b9ff223e2" />
+
 
 **Why this map is included:**  
 - It provides the **complete overview** of the classification result.  
@@ -32,7 +33,8 @@ They follow the same organization as the annexes of the dissertation.
 
 ### **2.1. Trees & Shrubs**
 
-📍 *Insert `class_trees_shrubs.png` here*
+📍 <img width="3507" height="4960" alt="Mapa_Final_ML_Classe1" src="https://github.com/user-attachments/assets/252bf1f5-ee11-42c3-9ad4-8734f4799e6b" />
+
 
 **Purpose:**  
 Shows the distribution of woody vegetation, a dominant component of the Faia Brava landscape.
@@ -41,7 +43,8 @@ Shows the distribution of woody vegetation, a dominant component of the Faia Bra
 
 ### **2.2. Herbaceous Vegetation**
 
-📍 *Insert `class_herbaceous.png` here*
+📍 <img width="3507" height="4960" alt="Mapa_Final_ML_Classe2" src="https://github.com/user-attachments/assets/c897d703-4ef1-4dbb-8908-bb6d606e58dc" />
+
 
 **Purpose:**  
 Highlights areas dominated by low vegetation, relevant for grazing analysis and seasonal monitoring.
@@ -50,7 +53,8 @@ Highlights areas dominated by low vegetation, relevant for grazing analysis and 
 
 ### **2.3. Rocky Outcrops**
 
-📍 *Insert `class_rocky_outcrops.png` here*
+📍<img width="3507" height="4960" alt="Mapa_Final_ML_Classe3" src="https://github.com/user-attachments/assets/17b7c615-49ce-49ae-a695-033695f82449" />
+
 
 **Purpose:**  
 Represents exposed rock formations, important for ecological structure and habitat classification.
