@@ -35,8 +35,6 @@ FaiaBrava_LULC/
 ├─ README.md
 ├─ Dissertation/
 │ └─ Pacheco_Paula_Dissertation_2025.pdf
-├─ Data/
-├─ Scripts/
 ├─ Maps/
 └─ Results/
 
