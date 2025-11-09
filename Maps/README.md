@@ -18,7 +18,7 @@ These visual outputs allow users to understand the spatial distribution of each 
 
 **Description:**  
 This map represents the full classification applied over the orthophoto of the Faia Brava Reserve using the best-performing workflow  
-(**Random Forest + UAV RGB + Haralick textures**).  
+(**Random Forest + UAV RGB + GLI + Entropy**).  
 The base orthophoto allows visual validation and ensures intuitive understanding of boundaries and transitions between classes.
 
 ---
