@@ -9,7 +9,7 @@ These visual outputs allow users to understand the spatial distribution of each 
 
 ## 1. Final LULC Map over Orthoimage
 
-<img width="2000" height="2828" alt="Mapa_Final_ML_Git" src="https://github.com/user-attachments/assets/f67fd9f8-2b1f-4c81-bf5c-eef5ca5796c2" />
+![Final LULC Map](./Mapa_Final_ML_Git.png)
 
 
 
@@ -34,7 +34,7 @@ They follow the same organization as the annexes of the dissertation.
 
 ### **2.1. Trees & Shrubs**
 
-<img width="3507" height="4960" alt="Mapa_Final_ML_Classe1" src="https://github.com/user-attachments/assets/252bf1f5-ee11-42c3-9ad4-8734f4799e6b" />
+![Class 1](./Mapa_Final_ML_Classe1.png)
 
 
 **Purpose:**  
@@ -44,7 +44,7 @@ Shows the distribution of woody vegetation, a dominant component of the Faia Bra
 
 ### **2.2. Herbaceous Vegetation**
 
-<img width="3507" height="4960" alt="Mapa_Final_ML_Classe2" src="https://github.com/user-attachments/assets/c897d703-4ef1-4dbb-8908-bb6d606e58dc" />
+![Class 2](./Mapa_Final_ML_Classe2.png)
 
 
 **Purpose:**  
@@ -54,7 +54,7 @@ Highlights areas dominated by low vegetation, relevant for grazing analysis and 
 
 ### **2.3. Rocky Outcrops**
 
-<img width="3507" height="4960" alt="Mapa_Final_ML_Classe3" src="https://github.com/user-attachments/assets/17b7c615-49ce-49ae-a695-033695f82449" />
+![Class 3](./Mapa_Final_ML_Classe3.png)
 
 
 **Purpose:**  
@@ -64,7 +64,7 @@ Represents exposed rock formations, important for ecological structure and habit
 
 ### **2.4. Other Land Uses**
 
-<img width="3507" height="4960" alt="Mapa_Final_ML Classe4" src="https://github.com/user-attachments/assets/a575e88c-a05a-4afe-94e9-3386fc73f833" />
+![Class 4](./Mapa_Final_ML_Classe4.png)
 
 
 **Purpose:**  
