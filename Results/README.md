@@ -39,11 +39,11 @@ These findings are documented in detail in the dissertation.
 
 For full methodology, data preparation, sampling procedures, and extended discussion of results, refer to:
 
-📁 `Dissertation/Dissertacao.pdf`
+`Dissertation/Dissertacao.pdf`
 
 ---
 
-## ℹ️ Notes
+## Notes
 
 Large imagery files and rasters are **not included** due to GitHub size limits.  
 All figures in this folder can be reproduced using the workflow described in the dissertation.
