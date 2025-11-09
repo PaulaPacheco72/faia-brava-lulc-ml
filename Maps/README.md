@@ -64,7 +64,7 @@ Represents exposed rock formations, important for ecological structure and habit
 
 ### **2.4. Other Land Uses**
 
-![Class 4](./Mapa_Final_ML_Classe4.png)
+![Class_4](./Mapa_Final_ML_Classe4.png)
 
 
 **Purpose:**  
