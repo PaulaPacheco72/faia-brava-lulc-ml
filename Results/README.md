@@ -5,7 +5,7 @@ This folder contains the main analytical results generated during the land use/l
 All figures originate from the experiments described in the Master’s Dissertation and serve as a visual summary of model performance.
 
 The goal of this directory is to:
-- Organize the key evaluation outputs (metrics, plots, and confusion matrices)
+- Organize the key evaluation outputs
 - Provide concise explanations to help interpret each figure
 - Complement the full discussion available in the dissertation
 
