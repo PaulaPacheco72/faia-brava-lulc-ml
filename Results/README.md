@@ -17,13 +17,15 @@ The goal of this directory is to:
 Graphs showing per-class F1-scores for each dataset and classifier.
 - Useful to compare the reliability of predictions across classes.
   
-📍 *Insert file here (e.g., `final_map_over_ortho.png`)*
+<img width="927" height="655" alt="F1_Score_Git" src="https://github.com/user-attachments/assets/6c7d187b-a844-44b3-ae8f-a77d1130d537" />
+
 
 ### **2. Cohen’s Kappa Comparison**
 Bar plots summarizing the overall agreement between predictions and validation data.
 - Highlights which dataset + classifier combination performed best.
 
-📍 *Insert file here (e.g., `final_map_over_ortho.png`)*
+<img width="2420" height="1788" alt="Kohen" src="https://github.com/user-attachments/assets/9b91816a-757d-486b-9fb5-6d079edc92bc" />
+
 
 ---
 
