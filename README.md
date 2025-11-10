@@ -30,14 +30,6 @@ The study evaluates open-source workflows (QGIS + Orfeo Toolbox) to classify lan
 - **RF** showed more consistent performance; **SVM** was sensitive to spectral complexity.  
 - Final map with **4 classes**: trees & shrubs, herbaceous vegetation, rocky outcrops, and other land uses.
 
-## Repository Layout 
-FaiaBrava_LULC/
-├─ README.md
-├─ Dissertation/
-│ └─ Pacheco_Paula_Dissertation_2025.pdf
-├─ Maps/
-└─ Results/
-
 ## Software
 - **QGIS** — used as the main GIS environment for visualization, sampling, and map production.  
 - **Orfeo Toolbox (OTB)** — used through the QGIS interface for image processing, texture extraction, and machine learning classification (RF and SVM).  
